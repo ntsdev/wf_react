@@ -2,5 +2,9 @@
     {
         "merged": "E:\\projects\\reactnative\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "E:\\projects\\reactnative\\AwesomeProject\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\projects\\reactnative\\wfreact\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\projects\\reactnative\\wfreact\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

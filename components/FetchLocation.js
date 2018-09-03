@@ -1,8 +1,19 @@
 import React from 'react';
-import { Button } from 'react-native';
+import { Button, TextInput, StyleSheet } from 'react-native';
 const fetchLocation = props => {
     return (
-        <Button title="Open Model" onPress={props.onGetLocation} />
+        <TextInput style={styles.inputBox}/>
     );
 };
+ 
+const styles=StyleSheet.create({
+    inputBox: {
+        width:'100%',
+        backgroundColor : '#FFFFFF',
+        borderRadius: 25,
+        marginVertical: 10,
+        marginHorizontal: 20,
+        position: 'relative'
+      }
+});
 export default fetchLocation;
